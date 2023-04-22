@@ -168,6 +168,12 @@
 
 <br>
 
+### Logs,
+
+`anup@ubunut-20046:~$ ls -ltr /var/log`
+
+<br>
+
 ### List of repos,
 
 `anup@ubunut-20046:~$ cat /etc/apt/sources.list`
