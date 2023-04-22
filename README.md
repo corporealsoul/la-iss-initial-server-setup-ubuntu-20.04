@@ -112,6 +112,8 @@
 
 **Load,** `anup@ubunut-20046:~$ htop`
 
+**Drive,** `anup@ubunut-20046:~$ df -h`
+
 <br>
 
 ### Processes,
