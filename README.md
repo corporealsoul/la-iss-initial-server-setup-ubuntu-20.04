@@ -188,3 +188,23 @@
 `anup@ubunut-20046:~$ cat /etc/apt/sources.list`
 
 <br>
+
+### Software details,
+
+`anup@ubunut-20046:~$ apt list`
+
+`anup@ubunut-20046:~$ apt list --installed`
+
+`anup@ubunut-20046:~$ apt list --upgradeable`
+
+`anup@ubunut-20046:~$ apt list apache2`
+
+`anup@ubunut-20046:~$ apt list | grep nginx`
+
+<br>
+
+`anup@ubunut-20046:~$ dpkg --list`
+
+`anup@ubunut-20046:~$ dpkg --list | grep nginx`
+
+<br>
